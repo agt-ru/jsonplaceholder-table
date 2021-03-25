@@ -1,0 +1,16 @@
+/* Navbar */
+
+.navbar {
+  background-color: var(--secondary-color);
+  height: 100px;
+}
+
+.navbar a {
+  color: white;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}

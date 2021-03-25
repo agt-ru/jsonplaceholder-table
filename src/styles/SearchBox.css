@@ -1,0 +1,23 @@
+input.search-input {
+  outline: none;
+  border: none;
+  height: 50px;
+  margin-right: 10px;
+  padding: 5px 5px 5px 10px;
+  border-radius: 5px;
+  width: 300px;
+  font-size: 1rem;
+  color: var(--color);
+}
+
+button.search-button {
+  height: 50px;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: var(--background-color);
+}
+
+button.search-button:hover {
+  color: white;
+  transform: scale(0.98);
+}
